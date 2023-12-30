@@ -1,0 +1,463 @@
+*body
+{
+  margin: auto;
+  padding:0%;
+}
+.section
+{
+    width:auto;
+    height:80px;
+    margin: auto;
+    padding: 0%;
+    display: flex;
+    background-color: green;
+}
+.fa-magnifying-glass
+{
+     color: white;
+}
+#searchwrap
+{
+    margin: auto;
+    margin-left: 2%;
+    padding: 0%;
+    width: auto;
+    height: auto;
+    border-bottom: solid 1px white;
+    border-spacing: 5px;
+
+}
+#logowrap
+{
+    width: auto;
+    height: auto;
+    margin: auto;
+    padding: 0%;
+}
+#logowrap img
+{
+    margin: auto;
+    padding: 0%;
+    width: 60px;
+    height: auto;
+}
+#loginwrap
+{
+    margin: auto;
+    margin-right: 2%;
+    padding: 0%;
+    width: auto;
+    height:auto;
+    font-family: sans-serif;
+    color: white;
+}
+.toplinks
+{
+    width: auto;
+    height: 4em;    
+    background: white;
+}
+#listwrap
+{
+    margin:auto;
+    padding: 0%;
+    width:40%;
+    height: auto;
+    font-family: sans-serif;
+    display: flex;
+}
+#listwrap li
+{
+   margin: auto;
+   margin-top: 4%;
+   padding: 0%;
+   list-style-type: none;
+}
+#listwrap li a
+{
+    color: green;
+    font-weight:bold;
+    text-decoration: none;
+}
+.mainsection
+{
+    margin: auto;
+    padding:0%;
+    width: auto;
+    height: 600px;
+    background:url(1.jpg);
+    background-size: 100% 100%;
+    color: green;
+    font-family: sans-serif; 
+}
+#contentwrap
+{
+    width:300px;
+    height: auto;
+    padding: 0%;
+    padding-top: 10%;
+    margin: auto;
+    margin-left: 10%;
+    font-weight: 900;
+}
+
+#paragraphwrap
+{
+    width:20%;
+    margin: auto;
+    margin-left: 10%;
+    padding: 0%;
+}
+#buttonwrap
+{
+    margin: auto;
+    margin-left: 10%;
+    padding: 0%;
+}
+#buttonwrap button
+{
+    padding: 1%;
+    border-radius: 15px 0px;
+    background-color: green;
+    color: white;
+    border: none;
+
+}
+#mainheading
+{
+    width: 500px;
+    height: auto;
+    margin: auto;
+    padding: 0%;
+    padding-top:2%;
+    text-align: center;
+    color: green;
+    font-family: sans-serif;
+}
+.secondsection
+{
+    width: auto;
+    height: auto;
+    margin: auto;
+    padding:0%;
+    display: flex;
+    font-family: sans-serif;
+}
+#textwrap
+{
+    width: 500px;
+    height: 340px;
+    padding: 0%;
+    margin: auto;
+    color: green;
+}
+#textwraps
+{
+    width: 500px;
+    height: 340px;
+    padding: 0%;
+    margin: auto;
+    color: green;
+    text-align: right;
+}
+#alinkwrap
+{
+    margin: auto;
+    margin-top:10%;
+    padding: 0%;
+}
+#alinkwrap a
+{
+    margin: auto;
+    padding: 3% 4%;
+    background-color: green;
+    color: aliceblue;
+    border: none;
+    border-radius:15px 0px;
+    text-decoration: none;
+}
+#imgwrap
+{
+    width: auto;
+    height: auto;
+    margin: auto;
+}
+
+.sectionwrap
+{
+    width: auto;
+    height: auto;
+    margin: auto;
+    margin-top: 4%;
+    padding:0%;
+    display: flex;
+    font-family: sans-serif;
+    color: green;
+}
+#secondmainheading
+{
+    width: 500px;
+    height: auto;
+    margin: auto;
+    padding: 0%;
+    padding-top:2%;
+    text-align: center;
+    color: green;
+    font-family: sans-serif;
+}
+#peanutbutter
+{
+    width: 650px;
+    height: auto;
+    margin: auto;
+    padding:0%;
+    
+}
+#peanutbutterheading
+{
+    display: flex;
+    
+}
+#headingwrap
+{
+    margin: auto;
+    margin-left: 0%;
+}
+#headingwrap2
+{
+    margin-right: 5%;
+}
+.sectionwrap button
+{
+    margin: auto;
+    padding:2%;
+    border-radius: 15px 0px ;
+    padding-left: 3%;
+    padding-right: 3%;
+    background-color: green;
+    border: none;
+    color: white;
+}
+#peanutbutterimg
+{
+    width:fit-content;
+    height: auto;
+    padding: 0%;
+    margin: auto;
+}
+#peanutbutterimg img
+{
+    width: 500px;
+    height: 200px;
+    box-shadow: 3px 3px 5px rgb(168, 168, 168);
+}
+.listsectionwrap
+{
+    width: auto;
+    height: auto;
+    margin: auto;
+    padding:0%;
+    display: flex;
+    font-family: sans-serif;
+    color: green;
+}
+.listsectionwrap button
+{
+    margin: auto;
+    padding:2%;
+    border-radius: 15px 0px ;
+    padding-left: 3%;
+    padding-right: 3%;
+    background-color: green;
+    border: none;
+    color: white;
+}
+.mainsectionwrwp
+{
+    width: 100%;
+    height:500px;
+    margin:5% 0% 5% 0%;
+    padding: 0%;
+    background: url(8.jpg);
+}
+#mainsectiontext
+{
+    width: 420px;
+    height: 400px;
+    margin: auto;
+    margin-left:5%;
+    padding: 0%;
+    padding-top: 8%;
+    font-family: sans-serif;
+    color: green;
+}
+#mainsectiontext h1
+{
+    font-size: 40px;
+}
+#mainsectiontext h3
+{
+    letter-spacing: 10px;
+}
+#mainsectiontext button
+{
+    padding: 4%;
+    border-radius: 15px 0px;
+    background-color: green;
+    color: white;
+    margin: auto;
+    border: none;
+}
+.pricingwrap
+{
+    width: auto;
+    height: auto;
+    display:flex;
+    font-family: sans-serif;
+}
+#boxwrap
+{
+    width: 300px;
+    height: 450px;
+    text-align: center;
+    background-color: rgb(203, 208, 212);
+    margin: auto;
+    padding: 0%;
+    box-shadow: 5px 5px 5px rgb(104, 103, 103);
+}
+#content
+{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(12, 151, 12);
+    color: white;
+    padding: 0%;
+    padding-top: 0%;
+}
+#content h1
+{
+    margin: auto;
+    padding-top:15%;
+}
+#content h2
+{
+    margin: auto;
+    font-size: 40px;
+}
+#boxwrap button
+{
+    padding: 4%;
+    border-radius: 15px 0px;
+    background-color: green;
+    color: white;
+    margin-top: 6%;
+    /* margin: auto; */
+    border: none;
+}
+.discoverwrap
+{
+    width: auto;
+    height: 450px;
+    margin: 5% 0% 5% 0%;
+    padding: 0%;
+    background: url(9.jpg);
+    text-align: right;
+}
+#discoverwraptext
+{
+    width: 420px;
+    height: 400px;
+    margin: auto;
+    margin-right:5%;
+    padding: 0%;
+    padding-top: 4%;
+    font-family: sans-serif;
+    color: green;
+}
+#discoverwraptext h1
+{
+    font-size: 40px;
+}
+#discoverwraptext h3
+{
+    letter-spacing: 10px;
+}
+#discoverwraptext button
+{
+    padding: 4%;
+    border-radius: 15px 0px;
+    background-color: green;
+    color: white;
+    margin: auto;
+    border: none;
+}
+.boxeswrap
+{
+    width: auto;
+    height: auto;
+    padding: 0%;
+    margin: 5% 0% 5% 0%;
+    display: flex;
+}
+#boxes
+{
+    width: 450px;
+    height: 350px;
+    margin: auto;
+    background-color: rgb(227, 232, 236);
+    box-shadow: 5px 5px 5px lightslategray;
+}
+#boxes img
+{
+    width:450px;
+    height:350px;
+}
+#boxcontent button
+{
+    padding: 4%;
+    border-radius: 15px 0px;
+    background-color: green;
+    color: white;
+    margin-top: 6%;
+    margin: auto;
+    border: none;
+}
+#boxcontent
+{
+    width: 320px;
+    height: 300px;
+    margin: auto;
+    margin-top: 10%;
+    border-radius: 5px;
+    font-family: sans-serif;
+}
+.botomwrap
+{
+    width: auto;
+    height: 400px;
+    background-color: green;
+    color: white;
+    font-family: sans-serif;
+}
+#imgeswrap
+{
+    width: 400px;
+    height: auto;
+    padding-top:3%;
+    margin: auto;
+    text-align: center;
+}
+#imgeswrap h1
+{
+    margin-bottom: 0%;
+}
+#imgeswrap p
+{
+   margin-top: 0%;
+   font-weight:500;
+   font-size: 25px;
+}
+#imgeswrap img
+{
+    width: 120px;
+}

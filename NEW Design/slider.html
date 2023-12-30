@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .section
+        {
+            width: auto;
+            height: 500px;
+            margin: auto;
+            padding: 0%;
+            background: url(1.jpg);
+            background-size: 100% 100%;
+            animation:slider 30s infinite linear;
+        }
+        #slider
+        {
+            width: auto;
+            height: 500px;
+        }
+        @keyframes slider 
+        {
+            0%{background-image: url(5.jpg);}
+            30%{background-image: url(3.jpg);}
+            50%{background-image: url(4.jpg);}
+            70%{background-image: url(3.jpg);}
+            90%{background-image: url(5.jpg);}
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <div class="section">
+            <div id="slider"></div>
+        </div>
+    </div>
+</body>
+</html>
